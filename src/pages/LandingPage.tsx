@@ -24,7 +24,7 @@ const LandingPage = () => {
   }
 
   return (
-    <div className="container mx-auto px-4 py-8 space-y-6">
+    <div className="container my-auto mx-auto px-4 py-8 space-y-6">
       {/* Welcome Card */}
       <Card className="flex-row flex-between items-center justify-between px-6">
         <div className="flex-1">
